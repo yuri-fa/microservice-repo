@@ -3,7 +3,7 @@ spring:
     driver-class-name: org.postgresql.Driver
     password: Postgres2018!
     testWhileIdle: true
-    url: jdbc:postgresql://localhost:5432/loja
+    url: jdbc:postgresql://localhost:5432/transportador
     username: postgres
     validationQuery: SELECT 1
   jpa:
